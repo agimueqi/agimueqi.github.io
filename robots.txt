@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://agimueqi.github.io/Tgr/sitemap_index.txt
+Sitemap: https://agimueqi.github.io/YyR/sitemap_index.txt
+Sitemap: https://agimueqi.github.io/ble/sitemap_index.txt
+Sitemap: https://agimueqi.github.io/kVS/sitemap_index.txt
